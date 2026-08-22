@@ -1,0 +1,4 @@
+Django>=5.0,<6.0
+psycopg2-binary>=2.9   # PostgreSQL driver, used once DB_ENGINE=postgres
+python-dotenv>=1.0     # loads .env file values into environment variables
+
